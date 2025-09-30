@@ -23,7 +23,7 @@ Se busca resolver la falta de personalización en comrercios electrónicos debid
     <tr>
         <td>Quispe Condori, Fernando Daniel</td>
         <td>u20221c628</td>
-        <td></td>
+        <td>Data Science</td>
     </tr>
     <tr>
         <td>Llanos Llamoca, Carlos Daniel</td>
