@@ -30,11 +30,6 @@ Se busca resolver la falta de personalización en comrercios electrónicos debid
         <td>u202019115 </td>
         <td>Data Science</td>
     </tr>
-    <tr>
-        <td>Paucar De La Cruz, Tatiana Medalith</td>
-        <td> </td>
-        <td></td>
-    </tr>
 </table>
 </center>
 
