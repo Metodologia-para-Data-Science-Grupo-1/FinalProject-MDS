@@ -27,8 +27,8 @@ Se busca resolver la falta de personalización en comrercios electrónicos debid
     </tr>
     <tr>
         <td>Llanos Llamoca, Carlos Daniel</td>
-        <td> </td>
-        <td></td>
+        <td>u202019115 </td>
+        <td>Data Science</td>
     </tr>
     <tr>
         <td>Paucar De La Cruz, Tatiana Medalith</td>
