@@ -1,4 +1,8 @@
+joblib
+fastapi
+uvicorn
 scikit-learn
 pandas~=2.3.2
 seaborn~=0.13.2
 matplotlib~=3.10.6
+requests
